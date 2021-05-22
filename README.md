@@ -1,5 +1,5 @@
 # eShop
-This is e-commerce android app. I develop it just for practice.
+This is e-commerce android app.
 
 # ScreenShot
 
